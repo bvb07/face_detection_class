@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>footballers-cristiano-ronaldo-512.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>footballers-cristiano-ronaldo-512.png</file>
+  </qresource>
+</RCC>
